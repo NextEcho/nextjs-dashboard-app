@@ -1,5 +1,7 @@
 {
 	"editor.tabSize": 4,
+	"editor.wordWrap": "on",
+	"editor.wordWrapColumn": 99,
 	"editor.insertSpaces": false,
 	"editor.detectIndentation": false,
 	"editor.formatOnSave": true,
